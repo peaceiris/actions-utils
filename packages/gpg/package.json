@@ -1,6 +1,6 @@
 {
   "name": "@actions-utils/gpg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "GitHub Actions utils gpg lib",
   "keywords": [
     "actions"
