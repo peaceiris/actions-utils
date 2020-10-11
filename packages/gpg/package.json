@@ -5,7 +5,7 @@
   "keywords": [
     "actions"
   ],
-  "author": "peaceiris <30958501+peaceiris@users.noreply.github.com>",
+  "author": "peaceiris",
   "homepage": "https://github.com/peaceiris/actions-utils",
   "license": "MIT",
   "main": "lib/gpg.js",
