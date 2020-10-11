@@ -1,0 +1,29 @@
+{
+  "name": "@actions-utils/gpg",
+  "version": "0.1.0",
+  "description": "GitHub Actions utils gpg lib",
+  "keywords": [
+    "actions"
+  ],
+  "author": "peaceiris <30958501+peaceiris@users.noreply.github.com>",
+  "homepage": "https://github.com/peaceiris/actions-utils",
+  "license": "MIT",
+  "main": "lib/gpg.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peaceiris/actions-utils.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/peaceiris/actions-utils/issues"
+  }
+}
